@@ -28,9 +28,7 @@ is a distance between given point and nearest point.
 		
 	#### Example
 	```
-	//start of the file
 	10 10
 	14 16
 	18 200
-	//end of the file
 	```
