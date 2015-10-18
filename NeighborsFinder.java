@@ -1,7 +1,6 @@
-package points;
 
-import points.kdtree.KdTree;
-import points.kdtree.Point;
+import kdtree.KdTree;
+import kdtree.Point;
 
 import java.io.*;
 import java.util.ArrayList;
