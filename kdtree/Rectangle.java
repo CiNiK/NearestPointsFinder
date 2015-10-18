@@ -1,4 +1,4 @@
-package points.kdtree;
+package kdtree;
 
 /*
 * @author Vitaliy Karpachev <vitaliy.karpachev@gmail.com>
