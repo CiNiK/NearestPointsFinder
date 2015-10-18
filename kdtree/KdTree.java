@@ -9,7 +9,7 @@
 * even - by x-coordinate. The prime advantage of a 2d-tree over a BST is that it supports
 * efficient implementation of range search and nearest neighbor search.
 * */
-package points.kdtree;
+package kdtree;
 
 import java.util.Stack;
 
