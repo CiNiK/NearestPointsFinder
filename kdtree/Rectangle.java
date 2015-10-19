@@ -5,7 +5,7 @@ package kdtree;
 *
 * Implementation of 2D axis-aligned rectangle.
 * */
-class Rectangle {
+public class Rectangle {
     private final int minX, maxX;
     private final int minY, maxY;
 
