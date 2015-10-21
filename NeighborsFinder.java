@@ -50,6 +50,7 @@ public class NeighborsFinder {
                 System.out.println(ex.toString()+").");
             }
         }
+        reader.close();
         return points.toArray(new Point[points.size()]);
     }
 
@@ -63,9 +64,11 @@ public class NeighborsFinder {
             } catch (Exception ex) {
                 System.out.print("Invalid input file format(");
                 System.out.println(ex.toString()+").");
+                reader.close();
                 return null;
             }
         }
+        reader.close();
         return points.toArray(new Point[points.size()]);
     }
 
